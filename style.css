@@ -39,8 +39,9 @@ ul {
     line-height: 25px;
     /* list-style-type:circle;*/
     list-style: circle;
-    max-width:705px;
-    min-width:705px;
+    max-width: 705px;
+    min-width: 705px;
+    min-height: 255px;
     border-color: white;
     margin-bottom: 0px;
 }
