@@ -1,0 +1,66 @@
+body {
+    margin: 20px;
+    font-family: Montserrat , Helvetica, Arial, sans-serif;
+    background-image:url(img/hero-bg.jpg);
+    background-position:top center;
+    background-repeat:no-repeat;
+    background-size:1980px 500px;
+    background-color:#070208;
+    color:white;
+}
+
+h1 {
+    margin: 10px 0px 100px;
+
+    text-align: center;
+}
+h2{
+    text-align:left;
+}
+header{
+    margin-top:-20px;
+    text-align:right;
+    padding:6px;
+    color:#cb5f12;
+}
+footer {
+    text-align:right;
+    padding:10px;
+    padding-left:0px;
+    color:rgba(203, 95, 18, 0.52);
+    font-size:10px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    margin-left: -40px;
+    line-height: 25px;
+    /* list-style-type:circle;*/
+    list-style: circle;
+    max-width:705px;
+    min-width:705px;
+    border-color: white;
+    margin-bottom: 0px;
+}
+.list {
+    list-style-type: disc;
+    color: #ffffff;
+    border-color: white;
+}
+.list::before {
+    color:#cb5f12;
+
+    
+    border-color: white;
+}
+
+.Donat{
+    float:left ;
+    margin-right:5px;
+}
+a {
+    color:#ffaf75;
+}
+
